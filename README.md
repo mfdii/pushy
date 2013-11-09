@@ -28,4 +28,4 @@ knife job start chef-client node1 node2 node3
 
 # Author
 
-* Author: Michael Ducy (<Michael Ducy <michael@opscode.com>>)
+* Author: Michael Ducy <michael@opscode.com>
